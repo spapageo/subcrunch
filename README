@@ -2,4 +2,4 @@ subcrunch
 ---------
 
 SubCrunch is a java programm that automaticaly finds subtitles for downloaded movies.
-It takes 3 command line argument ./run.sh "torrent_hash" "torrent_title" "torrent_directory"
+It takes 3 command line argument ./run.sh "movie_hash" "movie_title" "movie_directory"
